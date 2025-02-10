@@ -20,5 +20,13 @@ install.packages(c('car', 'compositions', 'DescTools', 'ez', 'HoRM', 'kernlab', 
 ## Man Pages
 Each data set includes a manual page in the R help. Example:
 ```
-?forestCanopy
+?forest
+```
+
+## For Spatial Data
+Due to limitations in loading data, you need to run the load_spatial() function to load availble raster and vector data for class.
+```
+load_spatial("raster") #loads only raster data
+load_spatial("vector") #loads only vector data
+load_spatial()         #loads both raster and vector data
 ```
