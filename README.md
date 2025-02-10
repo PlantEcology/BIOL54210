@@ -14,7 +14,7 @@ remotes::install_github("PlantEcology/BIOL54210")
 ## Required Packages for the Course
 These are the required packages for analyzing the data sets in BIOL 54210.
 ```
-install.packages(c('car', 'compositions', 'DescTools', 'devtools', 'ez', 'HoRM', 'kernlab', 'lm.beta', 'lme4', 'lmerTest', 'MASS', 'mblm', 'mgcv', 'multcomp', 'nparcomp', 'orcutt', 'pROC', 'quantreg', 'Rcapture', 'rcompanion', 'rgdal', 'rJava', 'ROCR', 'rpart', 'rpart.plot', 'terra', 'unmarked', 'vegan'))
+install.packages(c('car', 'compositions', 'DescTools', 'ez', 'HoRM', 'kernlab', 'lm.beta', 'lme4', 'lmerTest', 'MASS', 'mblm', 'mgcv', 'multcomp', 'nparcomp', 'orcutt', 'pROC', 'quantreg', 'Rcapture', 'rcompanion', 'remotes', 'rJava', 'ROCR', 'rpart', 'rpart.plot', 'terra', 'unmarked', 'vegan'))
 ```
 
 ## Man Pages
