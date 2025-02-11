@@ -26,5 +26,5 @@ Each data set includes a manual page in the R help. Example:
 ## For Spatial Data
 Due to limitations in loading data, you need to run the load_spatial() function to load availble vector data for class.
 ```
-load_spatial()         #loads both raster and vector data
+load_spatial()         #loads both vector data
 ```
