@@ -6,12 +6,9 @@
 \usage{
 load_spatial(whichData = "all")
 }
-\arguments{
-\item{whichData}{Specific data file needed. Options include "vector", "raster", "all". Default is all.}
-}
 \value{
-A spatial data file for class
+Vector spatial data as global variables for class
 }
 \description{
-This function loads spatial data (vector and raster) needed for BIOL 54210 Biometry.
+This function loads vector spatial data needed for BIOL 54210 Biometry.
 }
