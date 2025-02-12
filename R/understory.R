@@ -1,5 +1,0 @@
-#' Plant Community Data
-#'
-#' Plant species data for 3 sites and 70 species. Species variable codes are from https://plants.usda.gov. Similar data as abundCurve, but with all plots represented
-#' @references Arvola, KD, PF Booth, CC Ellinwood, AJ Fry, JL Furge, KA Haehnle, LE Hall, MA Jablonski, DK Jones, JT Martin, KM McLane, KC Mensch, VA Mumaw, RN Quirindongo, MJ Ravesi, JJ Rinard, PR Selig, AP Sellan, MB Sljivar, EA Stulik, TR Sunday, AN Turley, MT Voors, AR Warrix, TC Wood, and JM Marshall. 2014. Comparative analysis of urban and rural forest fragment structure and diversity in Norheastern Indiana. The Michigan Botanist 53:39-59.
-"understory"
