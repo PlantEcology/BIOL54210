@@ -1,5 +1,5 @@
 # BIOL 54210 Biometry 
-This is the data set package for lecture, homework, and exams in BIOL 54210 Biometry at Purdue University Fort Wayne. Additional data will be provided via the course Brightspace page.
+This is the data set package for lecture in BIOL 54210 Biometry at Purdue University Fort Wayne. Additional data for homework and exams will be provided via the course Brightspace page.
 
 ## Install
 Installation in R requires <a href="https://cran.r-project.org/package=devtools">devtools</a> or <a href="https://cran.r-project.org/package=remotes">remotes</a>.
