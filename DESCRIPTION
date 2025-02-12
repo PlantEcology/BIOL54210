@@ -4,7 +4,7 @@ Version: 0.2025
 Authors@R: 
     person("Jordan", "Marshall", , "marshalj@pfw.edu", role = c("aut", "cre"))
 Description: This is the data set package for lecture in BIOL 54210 Biometry at Purdue University Fort Wayne. Additional data for homework and exams will be provided via the course Brightspace page.
-License: use_mit_license()
+License: MIT + file LICENSE
 URL: https://github.com/PlantEcology/BIOL54210
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
